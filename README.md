@@ -1,0 +1,2 @@
+# learning-Js
+JavaScript consistent
